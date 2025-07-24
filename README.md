@@ -76,26 +76,4 @@ From the confusion matrix and classification report, we can say the model improv
 - Accuracy is okay when classes are not too imbalanced, but confusion matrix shows more details
 - Hyperparameter tuning using GridSearchCV is useful, especially when the model is simple
 
----
 
-## Things to Try Next
-
-- Try other models like Logistic Regression or Decision Trees
-- Use more features with better encoding
-- Visualize performance across different alpha values
-- Save the model and try basic deployment
-
----
-
-## Libraries Used
-
-- pandas
-- seaborn
-- matplotlib
-- sklearn (LabelEncoder, GridSearchCV, Naive Bayes, etc.)
-
----
-
-## Credits
-
-Thanks to Seaborn for the tips dataset and sklearn for the tools used in this project.
